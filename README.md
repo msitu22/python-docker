@@ -33,9 +33,13 @@ pip install Flask
 
 touch server1.py, server2.py, Dockerfile, Dockerfile
 
+<br />
+<br />
 
+-----
+
+### Some screenshots of the process:
 ![image](https://user-images.githubusercontent.com/112602900/216452918-f072b346-b60b-428f-b28f-16ac725ab7a6.png)
 
 ![image](https://user-images.githubusercontent.com/112602900/216452938-9d16d78a-9720-4fab-a823-4e8f0edf388a.png)
 ![image](https://user-images.githubusercontent.com/112602900/216452954-f9f6b591-3d4f-4328-84b3-c514f6fc60ee.png)
-
